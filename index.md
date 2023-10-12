@@ -1,123 +1,75 @@
----
-layout: default
----
+# Vignesh V
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am a dedicated AI/ML engineer proficient in statistical analysis, programming, and machine learning algorithms. I am passionate about transforming data into valuable insights to support business decisions and drive growth.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Accurate qr-code](https://github.com/vignesh4757/vignesh4757.github.io/assets/113326108/5c5a716f-4265-4fca-a2ba-d73f564d74bc)
 
 
-### Definition lists can be used with HTML syntax.
+- **Email:** vigneshv4757@gmail.com
+- **LinkedIn:** [linkedin.com/in/vignesh-v-765135227](https://www.linkedin.com/in/vignesh-v-765135227)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Internship Experience
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Data Science Trainee
+**TuringMinds.Ai**  
+*Bangalore, India*  
+*01/2022 - 03/2023*
 
-```
-The final element.
-```
+- Worked as a Data Science Trainee, crafting a robust ML model using Python.
+- Demonstrated proficiency within 3 months post training.
+- Responsibilities included statistical analysis, programming, and machine learning algorithm implementation.
+
+### Python for Data Science
+**Accurate Info Solutions**  
+*Bangalore, India*  
+*03/2022 - 04/2022*
+
+- Acquired practical knowledge in Python for Data Science.
+- Gained hands-on experience in Data Science using Python tools and libraries.
+
+## Personal Projects
+
+### Detection of Diabetic Eye Disease using Deep Learning
+Developed and implemented a Convolutional Neural Network (CNN) algorithm to detect Diabetic Retinopathy, achieving an accuracy rate of 90%. This project enables early detection and treatment for patients.
+
+### Telecom Churn Prediction
+Achieved 85% accuracy in Telecom Churn Prediction using machine learning techniques, resulting in a 20% reduction in churn rate, saving up to $1.5M annually. This significantly enhanced customer retention and business profitability within 3 months.
+
+### Lending Club Case Study
+Gained practical experience in solving real-world business problems through Exploratory Data Analysis (EDA). Developed a foundational understanding of risk analytics in the banking and financial services industry, showcasing how data is leveraged to mitigate lending risks and protect against financial losses.
+
+## Education
+
+- **Master of Science in Machine Learning and Artificial Intelligence**  
+  *Liverpool John Moores University* 
+
+
+## Certifications
+
+- **Post Graduate Certificate in Computational Data Science**  
+  *01/2022 - 03/2023*
+
+- **Python for Data Science Certificate of Publication**
+
+## Skills
+
+- MS Office
+- Python
+- Numpy
+- Statistics
+- Sklearn
+- Data Analytics
+- Matplotlib
+- Tableau
+- Pandas
+- Git
+
+## Languages
+
+- **English:** Full Professional Proficiency
+- **Tamil:** Full Professional Proficiency
+- **Kannada:** Full Professional Proficiency
+
+## Interests
+
+- Reading technical blogs
