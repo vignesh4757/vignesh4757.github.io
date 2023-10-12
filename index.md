@@ -4,10 +4,9 @@ I am a dedicated AI/ML engineer proficient in statistical analysis, programming,
 
 
 
-- **Email:** vigneshv4757@gmail.com
+- **Email:** [vigneshv4757@gmail.com](mailto:vigneshv4757@gmail.com)
 - **LinkedIn:** [linkedin.com/in/vignesh-v-765135227](https://www.linkedin.com/in/vignesh-v-765135227)
 
-## Internship Experience
 
 ### Data Science Trainee
 **TuringMinds.Ai**  
@@ -42,8 +41,11 @@ I am a dedicated AI/ML engineer proficient in statistical analysis, programming,
 ## Education
 
 - **Master of Science in Machine Learning and Artificial Intelligence**  
-  *Liverpool John Moores University* 
-
+  *Liverpool John Moores University*
+  
+- **Master of Computer Application**  
+  *Bangalore Institute of Technology*  
+  *12/2020 - 08/2022*
 
 ## Certifications
 
