@@ -1,5 +1,3 @@
-# Vignesh V
-
 I am a dedicated AI/ML engineer proficient in statistical analysis, programming, and machine learning algorithms. I am passionate about transforming data into valuable insights to support business decisions and drive growth.
 
 
