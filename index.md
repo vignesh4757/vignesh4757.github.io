@@ -2,7 +2,6 @@
 
 I am a dedicated AI/ML engineer proficient in statistical analysis, programming, and machine learning algorithms. I am passionate about transforming data into valuable insights to support business decisions and drive growth.
 
-![Accurate qr-code](https://github.com/vignesh4757/vignesh4757.github.io/assets/113326108/5c5a716f-4265-4fca-a2ba-d73f564d74bc)
 
 
 - **Email:** vigneshv4757@gmail.com
@@ -30,13 +29,13 @@ I am a dedicated AI/ML engineer proficient in statistical analysis, programming,
 ## Personal Projects
 
 ### Detection of Diabetic Eye Disease using Deep Learning
-Developed and implemented a Convolutional Neural Network (CNN) algorithm to detect Diabetic Retinopathy, achieving an accuracy rate of 90%. This project enables early detection and treatment for patients.
+![CE2DB88F-9679-4CFC-BD0D-0C1B2584BAE7_1_201_a](https://github.com/vignesh4757/vignesh4757.github.io/assets/113326108/a937545f-53a1-4103-94f7-f740b5876ffc)
+
+Developed and implemented a Convolutional Neural Network (CNN) algorithm to detect Diabetic Retinopathy, achieving an accuracy rate of 88%. This project enables early detection and treatment for patients.
 
 ### Telecom Churn Prediction
+![15ABB295-E2B4-4C75-9B72-C09D82F1DB6E_1_201_a](https://github.com/vignesh4757/vignesh4757.github.io/assets/113326108/220b4d9e-88c1-47bf-9778-240aba1428ac)
 Achieved 85% accuracy in Telecom Churn Prediction using machine learning techniques, resulting in a 20% reduction in churn rate, saving up to $1.5M annually. This significantly enhanced customer retention and business profitability within 3 months.
-
-### Lending Club Case Study
-Gained practical experience in solving real-world business problems through Exploratory Data Analysis (EDA). Developed a foundational understanding of risk analytics in the banking and financial services industry, showcasing how data is leveraged to mitigate lending risks and protect against financial losses.
 
 ## Education
 
