@@ -31,11 +31,13 @@ I am a dedicated AI/ML engineer proficient in statistical analysis, programming,
 ### Detection of Diabetic Eye Disease using Deep Learning
 ![CE2DB88F-9679-4CFC-BD0D-0C1B2584BAE7_1_201_a](https://github.com/vignesh4757/vignesh4757.github.io/assets/113326108/a937545f-53a1-4103-94f7-f740b5876ffc)
 
-Developed and implemented a Convolutional Neural Network (CNN) algorithm to detect Diabetic Retinopathy, achieving an accuracy rate of 88%. This project enables early detection and treatment for patients.
+- Developed and implemented a Convolutional Neural Network (CNN) algorithm to detect Diabetic Retinopathy, achieving an accuracy rate of 88%.
+- This project enables early detection and treatment for patients.
 
 ### Telecom Churn Prediction
 ![15ABB295-E2B4-4C75-9B72-C09D82F1DB6E_1_201_a](https://github.com/vignesh4757/vignesh4757.github.io/assets/113326108/220b4d9e-88c1-47bf-9778-240aba1428ac)
-Achieved 85% accuracy in Telecom Churn Prediction using machine learning techniques, resulting in a 20% reduction in churn rate, saving up to $1.5M annually. This significantly enhanced customer retention and business profitability within 3 months.
+- Achieved 85% accuracy in Telecom Churn Prediction using machine learning techniques, resulting in a 20% reduction in churn rate, saving up to $1.5M annually.
+- This significantly enhanced customer retention and business profitability within 3 months.
 
 ## Education
 
