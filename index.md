@@ -43,7 +43,7 @@ I am a dedicated AI/ML engineer proficient in statistical analysis, programming,
   
 - **Master of Computer Application**  
   *Bangalore Institute of Technology*  
-  *12/2020 - 08/2022*
+  
 
 ## Certifications
 
